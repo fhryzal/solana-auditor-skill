@@ -47,10 +47,10 @@ Solana programs hold **billions in TVL**, but security auditing is:
 
 ```bash
 # Clone into your solana-ai-kit skills directory
-git clone https://github.com/YOUR_USER/solana-auditor-skill.git
+git clone https://github.com/fhryzal/solana-auditor-skill.git
 cd solana-ai-kit
 # Add as a git submodule
-git submodule add https://github.com/YOUR_USER/solana-auditor-skill.git skills/solana-auditor
+git submodule add https://github.com/fhryzal/solana-auditor-skill.git skills/solana-auditor
 
 # Run the installer
 cd skills/solana-auditor
@@ -60,7 +60,7 @@ cd skills/solana-auditor
 ### Standalone
 
 ```bash
-git clone https://github.com/YOUR_USER/solana-auditor-skill.git
+git clone https://github.com/fhryzal/solana-auditor-skill.git
 cd solana-auditor-skill
 ./install.sh
 ```
