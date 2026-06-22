@@ -1,0 +1,38 @@
+# Rust
+target/
+**/*.rs.bk
+*.pdb
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if JS tooling)
+node_modules/
+
+# Env
+.env
+.env.local
+
+# Solana
+test-ledger/
+*.so
+
+# Anchor
+.idl/
+
+# Python (if used)
+__pycache__/
+*.pyc
+.venv/
+
+# Archives
+*.tar.gz
+*.zip
